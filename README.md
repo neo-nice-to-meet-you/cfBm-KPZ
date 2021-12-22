@@ -7,7 +7,7 @@ CfBM_LPP.py contains all documented code generating coalescing fractional Browni
 
 KS_test.py contains all documented code that reads our data files and perform the statistical tests.
 
-All data sets use in our paper are included, with file name of the format "[process]_[down/up]_[steps]_[hurst]":
+All data sets use in our paper are included, with file name of the format "[process] _ [down/up] _ [steps] _ [hurst]":
    - [process] specifies which process is being simulated
    - [down/up] indicates whether the data contains the lower or upper (respectively) point fields
    - [steps] indicates the step size used in generating the data, which is 1024 for cfBm models and 4096 for LPP
